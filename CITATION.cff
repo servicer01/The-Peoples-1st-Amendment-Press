@@ -1,0 +1,23 @@
+cff-version: 1.0.0
+message: "If you use this First Amendment Press Card design, please cite it as below."
+title: "The People's First Amendment Press Card"
+abstract: "Open-source, printable press credential cards for independent journalists, citing the First Amendment and key court cases affirming the right to record police and practice journalism in public spaces."
+authors:
+  - family-names: "servicer01"
+    given-names: ""
+    orcid: ""  # Optional: add if you have one
+    affiliation: "Independent / Community Project"
+version: 1.0.0
+doi: ""  # Optional: add if you ever get a DOI from Zenodo
+date-created: 2026-04-18
+date-updated: 2026-04-18
+url: "https://github.com/servicer01/The-Peoples-1st-Amendment-Press"
+license: "CC-BY-SA-4.0"
+keywords:
+  - "First Amendment"
+  - "press freedom"
+  - "journalist rights"
+  - "open source"
+  - "printable credential"
+  - "constitutional rights"
+repository-code: "https://github.com/servicer01/The-Peoples-1st-Amendment-Press"
